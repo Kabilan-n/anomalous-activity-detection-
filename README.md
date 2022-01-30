@@ -18,4 +18,6 @@ https://drive.google.com/file/d/1oqu5WzQ7-SWm1XLthGAB1vzOeJfhtrmt/view?usp=shari
 
 ## Demo video link:
 
+https://drive.google.com/file/d/1sI7h2WnUKcDUNIfm1hGmP8Elj38nncdF/view?usp=sharing
+
 
