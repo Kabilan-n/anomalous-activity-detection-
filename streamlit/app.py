@@ -22,7 +22,7 @@ tfile.write(f.read())
 vf = cv.VideoCapture(tfile.name)
 
 stframe = st.empty()
-outframe = np.array()
+outframe = []
 while vf.isOpened():
     ret, frame = vf.read()
     # if frame is read correctly ret is True
