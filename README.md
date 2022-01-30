@@ -13,7 +13,7 @@ One of the most common anomalies is fire accidents. This can happen due to short
 https://www.kaggle.com/kabilan03/fire-detection-dataset
 
 ### Trained Model link:
- (DUE TO THE HIGH SIZE OF THE MODEL. WE HAVE UPLOADED THE MODEL IN GOOGLE DRINK AND PROVIDED THE LINK HERE)
+ (DUE TO THE HIGH SIZE OF THE MODEL. WE HAVE UPLOADED THE MODEL IN GOOGLE DRIVE LINK AND PROVIDED THE LINK HERE)
 https://drive.google.com/file/d/1oqu5WzQ7-SWm1XLthGAB1vzOeJfhtrmt/view?usp=sharing
 
 ## Demo video link:
