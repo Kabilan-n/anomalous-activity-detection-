@@ -1,0 +1,4 @@
+Dataset: https://www.kaggle.com/kabilan03/fire-detection-dataset
+Trained model: https://www.kaggle.com/kabilan03/fire-detection-dataset
+GitHub repo: https://github.com/Kabilan-n/anomalous-activity-detection-
+Demo video link:https://drive.google.com/file/d/1sI7h2WnUKcDUNIfm1hGmP8Elj38nncdF/view?usp=sharing
