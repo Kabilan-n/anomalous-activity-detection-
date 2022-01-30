@@ -23,7 +23,7 @@ import cv2
 
 if st.button('Start'):
     video = cv2.VideoCapture('https://www.mediacollege.com/video-gallery/testclips/20051210-w50s.flv')
-    video.set(cv2.CAP_PROP_FPS, 25)
+    #video.set(cv2.CAP_PROP_FPS, 25)
 
     image_placeholder = st.empty()
 
