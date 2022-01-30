@@ -22,7 +22,8 @@ import time
 import cv2
 
 if st.button('Start'):
-    video = cv2.VideoCapture('https://www.mediacollege.com/video-gallery/testclips/20051210-w50s.flv')
+    #video = cv2.VideoCapture('https://www.mediacollege.com/video-gallery/testclips/20051210-w50s.flv')
+    video = cv.VideoCapture(tfile.name)
     #video.set(cv2.CAP_PROP_FPS, 25)
 
     image_placeholder = st.empty()
@@ -32,9 +33,9 @@ if st.button('Start'):
         if not success:
             break
         image_placeholder.image(image, channels="BGR")
-        time.sleep(0.01)
+        #time.sleep(0.01)
 
-vf = cv.VideoCapture(tfile.name)
+
 
 # stframe = st.empty()
 # outframe = []
