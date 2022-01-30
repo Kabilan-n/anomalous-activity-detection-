@@ -22,7 +22,7 @@ tfile.write(f.read())
 vf = cv.VideoCapture(tfile.name)
 
 stframe = st.empty()
-
+outframe = np.array()
 while vf.isOpened():
     ret, frame = vf.read()
     # if frame is read correctly ret is True
@@ -30,6 +30,7 @@ while vf.isOpened():
         print("Can't receive frame (stream end?). Exiting ...")
         break
     gray = cv.cvtColor(frame, cv.COLOR_BGR2GRAY)
-    st.video(gray)
+    outframe.append(gray)
+st.video(outframe)
     #stframe.image(gray)
     
