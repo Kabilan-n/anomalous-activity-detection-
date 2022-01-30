@@ -30,5 +30,6 @@ while vf.isOpened():
         print("Can't receive frame (stream end?). Exiting ...")
         break
     gray = cv.cvtColor(frame, cv.COLOR_BGR2GRAY)
-    stframe.image(gray)
+    st.video(gray)
+    #stframe.image(gray)
     
