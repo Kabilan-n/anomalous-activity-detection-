@@ -2,7 +2,7 @@
 
 # Fire detection
 
-## Teanm: AI_Engineers
+## Team: AI_Engineers
 
 ### Objective:
 
